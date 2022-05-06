@@ -9,5 +9,9 @@ while True:
   print("########################")
   
   op = int(input('Digite uma opção: '))
-  if op > 2 or op < 0:
+  if(op == 1):
+    print()
+  elif op == 2:
+    quit()
+  elif op > 2 or op < 0:
     print("Opção inválida.")
