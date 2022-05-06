@@ -9,7 +9,7 @@ while True:
   print("########################")
   
   op = int(input('Digite uma opção: '))
-  if(op == 1):
+  if op == 1:
     print()
   elif op == 2:
     quit()
