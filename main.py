@@ -1,7 +1,7 @@
 op = 0
 while True:
   print("########################")
-  print("#    BEM VINDO         #")
+  print("#     BEM VINDO        #")
   print("#                      #")
   print("#    1 - ENTRAR        #")
   print("#    2 -  SAIR         #")
